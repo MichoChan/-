@@ -1,3 +1,15 @@
+/******
+Author:Micheal Chan@blog.csdn.net/aq14aq1
+
+Summary:
+    without a stack
+
+Analysis:
+    O(n^2)
+
+    if using map-like data struct for searching,time can be O(nlgn)
+******/
+
 #include <iostream>
 #include <cstdio>
 #include <cstdlib>
