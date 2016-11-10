@@ -1,3 +1,10 @@
+/**
+Author:Micheal Chan@blog.csdn.net/aq14aq1
+
+Complexity:
+    O(n^2)  when the sequence is after-order sequence of a BST
+**/
+
 class Solution {
 public:
     bool VerifySquenceOfBST(vector<int> sequence) {
